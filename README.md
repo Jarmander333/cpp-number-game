@@ -9,8 +9,6 @@ This calculator was assembled with the following technologies:
 * Code::Blocks 20.03 
 http://www.codeblocks.org/
 
-## Folder Structure
-
 ## Explanation on how to use it
 When the program prompts you to enter a number you can enter (for example):
 ```
